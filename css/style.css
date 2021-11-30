@@ -1,0 +1,23 @@
+*{
+    background-color: #e25a28;  
+}
+
+ul {
+    list-style-type: none;
+}
+
+.getCountries {
+    background-color: #9F2B00;
+    border: none;
+    color: white;
+    font-size: 16px;
+    margin-top: 2rem;
+
+  }
+
+
+  select{
+      background-color: white;
+      font-size: 16px;
+  }
+
